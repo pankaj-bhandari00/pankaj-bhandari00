@@ -29,8 +29,8 @@ Focused on C, Data Structures & Algorithms, and building strong software fundame
 ## 🧠 Coding Profile
 
 <p align="center">
-  <a href="https://leetcode.com//pankajbh">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white" />
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
