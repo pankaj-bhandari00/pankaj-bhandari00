@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Focused on C++, Data Structures & Algorithms, and building strong software fundamentals.
+Focused on C, Data Structures & Algorithms, and building strong software fundamentals.
 </p>
 
 ---
