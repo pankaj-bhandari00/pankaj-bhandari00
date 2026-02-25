@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Bhandari</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;C%2B%2B+Developer;DSA+Enthusiast;Building+Strong+Foundations" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Learning+and+Building+Everyday" />
 </p>
 
 <p align="center">
