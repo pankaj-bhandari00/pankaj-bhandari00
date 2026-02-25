@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj Bhandari</h1>
-<h3 align="center">B.Tech in Computer Science | Aspiring Software Engineer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;C%2B%2B+Developer;DSA+Enthusiast;Building+Strong+Foundations" />
+</p>
 
 <p align="center">
 Focused on C++, Data Structures & Algorithms, and building strong software fundamentals.
